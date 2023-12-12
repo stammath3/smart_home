@@ -1,6 +1,4 @@
-# smart_home
-
-<h2>⚡️ Quick Start</h2>
+# Smart Home
 
 This project is about a mobile application of a smart home for university assignment .
 

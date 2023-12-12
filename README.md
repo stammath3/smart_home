@@ -1,8 +1,10 @@
 # smart_home
 
+<h2>⚡️ Quick Start</h2>
+
 This project is about a mobile application of a smart home for university assignment .
 
-## Getting Started
+<h2>🚀 Pages </h2>
 
 - When you first start this application it will ask you to login, so a login page will be created and a register page. 
 ![Alt text](login-1.png)
